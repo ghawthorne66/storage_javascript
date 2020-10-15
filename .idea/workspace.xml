@@ -75,6 +75,7 @@
       <change afterPath="$PROJECT_DIR$/../php-learning/views/partials/footer.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../php-learning/views/partials/head.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../php-learning/views/partials/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todoapp/src/components/AddTodo.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todoapp/src/components/TodoItem.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todoapp/src/components/Todos.vue" afterDir="false" />
@@ -98,9 +99,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/storage_javascript/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -110,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602721878972</updated>
-      <workItem from="1602721881382" duration="341000" />
+      <workItem from="1602721881382" duration="1977000" />
     </task>
     <servers />
   </component>
